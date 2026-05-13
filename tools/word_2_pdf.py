@@ -298,8 +298,18 @@ class WordToPdfTool(Tool):
                             img_stm = io.BytesIO(img_map[rid])
                             img = ImageReader(img_stm)
                             w, h = img.getSize()
-                            if w > 16 * cm: 
-                                h = h * (16 * cm / w); w = 16 * cm
+                            
+                            max_width = 17 * cm
+                            max_height = 24.62 * cm
+                            
+                            width_ratio = max_width / w
+                            height_ratio = max_height / h
+                            ratio = min(width_ratio, height_ratio)
+                            
+                            if ratio < 1:
+                                w = w * ratio
+                                h = h * ratio
+                            
                             story.append(RLImage(img_stm, width=w, height=h))
                             has_img = True
                         except Exception: pass
