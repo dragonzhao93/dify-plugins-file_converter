@@ -1,6 +1,6 @@
 identity:
   name: csv_2_excel
-  author: sawyer-shi
+  author: dragonzhao93
   label:
     en_US: CSV to Excel Converter
     zh_Hans: CSV转Excel转换器

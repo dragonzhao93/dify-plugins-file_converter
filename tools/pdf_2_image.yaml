@@ -1,6 +1,6 @@
 identity:
   name: "pdf_2_image"
-  author: "sawyer-shi"
+  author: "dragonzhao93"
   label:
     en_US: "PDF to Image Converter"
     zh_Hans: "PDF转图片转换器"

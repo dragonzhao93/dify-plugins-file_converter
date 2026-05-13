@@ -1,6 +1,6 @@
 identity:
   name: "text_2_pdf"
-  author: "sawyer-shi"
+  author: "dragonzhao93"
   label:
     en_US: "Text to PDF Converter"
     zh_Hans: "文本转PDF转换器"

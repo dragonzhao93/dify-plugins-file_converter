@@ -57,7 +57,7 @@ This plugin is licensed under the Apache License 2.0, which is a permissive open
 
 ### Contact Information 
 
-**Developer:** `https://github.com/sawyer-shi` 
+**Developer:** `https://github.com/dragonzhao93` 
 **Email:** sawyer36@foxmail.com 
 **Source Code:** Available through Dify platform 
 **Support:** Available through Dify platform and GitHub Issues 
@@ -114,9 +114,9 @@ This plugin is licensed under the Apache License 2.0, which is a permissive open
 
 ### 联系信息 
 
-**开发者：** `https://github.com/sawyer-shi` 
+**开发者：** `https://github.com/dragonzhao93` 
 **邮箱：** sawyer36@foxmail.com 
-**项目代码来源：** `https://github.com/sawyer-shi/dify-plugins-file_converter` 
+**项目代码来源：** `https://github.com/dragonzhao93/dify-plugins-file_converter` 
 **支持：** 通过Dify平台和GitHub Issues提供 
 
 --- 

@@ -185,10 +185,10 @@
 
 ## 开发者信息
 
-- **作者**: `https://github.com/sawyer-shi`
+- **作者**: `https://github.com/dragonzhao93`
 - **邮箱**: sawyer36@foxmail.com
 - **许可证**: Apache License 2.0
-- **源码地址**: `https://github.com/sawyer-shi/dify-plugins-file_converter`
+- **源码地址**: `https://github.com/dragonzhao93/dify-plugins-file_converter`
 - **支持**: 通过Dify平台和GitHub Issues
 
 ## 许可证声明

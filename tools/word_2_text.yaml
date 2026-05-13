@@ -1,6 +1,6 @@
 identity:
   name: "word_2_text"
-  author: "sawyer-shi"
+  author: "dragonzhao93"
   label:
     en_US: "Word to Text Converter"
     zh_Hans: "Word转文本转换器"

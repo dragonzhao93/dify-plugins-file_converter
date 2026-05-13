@@ -185,10 +185,10 @@ Convert CSV files to PDF format with smart layout optimization.
 
 ## Developer Information
 
-- **Author**: `https://github.com/sawyer-shi`
+- **Author**: `https://github.com/dragonzhao93`
 - **Email**: sawyer36@foxmail.com
 - **License**: Apache License 2.0
-- **Source Code**: `https://github.com/sawyer-shi/dify-plugins-file_converter`
+- **Source Code**: `https://github.com/dragonzhao93/dify-plugins-file_converter`
 - **Support**: Through Dify platform and GitHub Issues
 
 ## License Notice
